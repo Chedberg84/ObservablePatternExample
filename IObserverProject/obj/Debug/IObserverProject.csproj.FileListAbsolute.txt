@@ -1,0 +1,6 @@
+\\mgfs01\home$\chedberg\my documents\visual studio 2010\Projects\IObserverProject\IObserverProject\bin\Debug\IObserverProject.exe
+\\mgfs01\home$\chedberg\my documents\visual studio 2010\Projects\IObserverProject\IObserverProject\bin\Debug\IObserverProject.pdb
+\\mgfs01\home$\chedberg\my documents\visual studio 2010\Projects\IObserverProject\IObserverProject\obj\Debug\IObserverProject.exe
+\\mgfs01\home$\chedberg\my documents\visual studio 2010\Projects\IObserverProject\IObserverProject\obj\Debug\IObserverProject.pdb
+E:\C# 2014\VS2010\Projects\IObserverProject\IObserverProject\obj\Debug\IObserverProject.exe
+E:\C# 2014\VS2010\Projects\IObserverProject\IObserverProject\obj\Debug\IObserverProject.pdb
